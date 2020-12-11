@@ -74,7 +74,7 @@ li:nth-child(2) {
 
 .hero-section {
     display: grid;
-    grid-template-columns: repeat(2, 800px 1fr);
+    grid-template-columns: repeat(2, 850px 1fr);
     align-items: center;
     margin-top: 30px;
 }
