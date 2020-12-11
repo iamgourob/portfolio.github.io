@@ -39,6 +39,7 @@ a {
 
 li:nth-child(1) {
     margin-right: 200px;
+    
 }
 
 li:nth-child(2) {
@@ -74,7 +75,7 @@ li:nth-child(2) {
 
 .hero-section {
     display: grid;
-    grid-template-columns: repeat(2, 850px 1fr);
+    grid-template-columns: repeat(2, 900px 1fr);
     align-items: center;
     margin-top: 30px;
 }
